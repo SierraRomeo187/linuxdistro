@@ -1,0 +1,33 @@
+MX Linux 23 with KDE
+Overview
+
+MX Linux is a popular Linux distribution based on Debian Stable. The latest version, MX Linux 23, was released on August 3, 2023. This version comes with the KDE Plasma desktop environment by default.
+
+MX Linux aims to provide a user-friendly desktop experience with easy access to administrative tasks. It includes a customized Xfce desktop layout and popular applications for everyday use.
+Downloading the ISO
+
+You can download the MX Linux 23 ISO image from the official website. Choose the 64-bit KDE version unless you have specific needs for the 32-bit build.
+
+The ISO file allows you to try out MX Linux by booting it directly from a USB stick or DVD before installing it.
+Writing the ISO to a USB Drive
+
+To write the MX Linux ISO to a USB drive, you'll need a utility that can burn ISO images. Popular free options include:
+
+    Rufus (Windows)
+    balenaEtcher (Windows, Mac, Linux)
+    Ventoy (Windows)
+
+Use one of these tools to select the MX Linux ISO and your target USB drive to burn the image. This will create a bootable MX Linux USB drive.
+Booting from the USB
+
+Once you've written the ISO to your USB drive, you can boot your computer directly from it. The process varies by machine - you may need to bring up a boot menu and select the USB drive as the boot device.
+
+When booted from the USB, you'll be able to try out MX Linux without making any changes to your hard drive. It also allows you to ensure your hardware is compatible before installing.
+Default Username and Password
+
+The default username on the live system is the username is: sierra and you will be prompted to enter password: deepin
+Customized Desktop
+
+The KDE desktop included in MX Linux 23 has been pre-configured with a customized layout, theme, and selection of default applications reflecting the preferences of the maintainer (myself). These settings can easily be changed to suit your needs after installation.
+
+Let me know if you would like me to expand or clarify any part of this GitHub page!
